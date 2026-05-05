@@ -30,7 +30,7 @@ I'm a **Full Stack Software Engineer** based in Vehari, Pakistan, with hands-on 
 - 🏢 **Experience:** Web Developer @ **TheCodingBuzz** *(Remote)*
 - 🎓 **Education:** B.S. Software Engineering — COMSATS University, Vehari (2022–2026)
 - 🤖 **Specialty:** Full Stack Development + AI API Integration (OpenAI, Gemini, Hugging Face)
-- 🌍 **Open to:** Remote roles, Dubai, and Pakistan-based opportunities
+- 🌍 **Open to:** Remote roles, Global, and Pakistan-based opportunities
 - 📬 **Reach me:** aryanahmad478@gmail.com
 
 ---
