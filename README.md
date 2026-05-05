@@ -139,12 +139,11 @@ Machine learning regression model for sales forecasting using feature engineerin
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan-strack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-strack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan-strack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-strack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-strack&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=aryan-strack&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
